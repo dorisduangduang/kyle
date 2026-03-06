@@ -1,6 +1,7 @@
 {
   "name": "ue5-content-browser",
   "private": true,
+  "homepage": "https://dorisduangduang.github.io/kyle/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
